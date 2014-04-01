@@ -1,4 +1,4 @@
-//	Created by Raymond Ho on March 26th, 2014.
+//	Created by Raymond Ho
 //	This is a reverse polish notation calculator.
 //	It works by using a tree and stack data structures.
 //	Does not check for errors, assumes user knows what they're doing.
