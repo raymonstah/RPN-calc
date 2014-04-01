@@ -22,6 +22,6 @@ Followed by CTRL + D.
 
 The output will be : 15 is the final answer.
 
-Sample input: 10 10 ^ 10 + p
+Sample input: 2 10 ^ 10 + p
 
 The output will be : 1034.0 is at the top of the stack.
